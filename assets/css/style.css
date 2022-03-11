@@ -7,8 +7,21 @@ body {
     height: calc(100vh - 56px);
     background-color: coral;
     position: relative;
-    background: url('../images/susan-wilkinson-E1plVgWm63c-unsplash.jpg');
+    background: url('../images/marek-piwnicki-z96HRxRyh0E-unsplash.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: none;
+    }
+
+    .hero-text{
+        color: ivory;
+    }
+
+    .hero-text h1{
+        font-size: 4rem;
+        margin-top: -2.2em;
+    }
+
+    .hero-text p{
+        margin-top: -1.2em;
     }
