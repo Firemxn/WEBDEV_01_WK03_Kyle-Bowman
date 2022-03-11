@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(223, 135, 250);
+}
+
+.hero {
+    width: 100vw;
+    height: calc(100vh - 56px);
+    background-color: coral;
+    position: relative;
+    background: url('../images/susan-wilkinson-E1plVgWm63c-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    }
